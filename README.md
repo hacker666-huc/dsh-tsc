@@ -22,4 +22,3 @@ dsh plugin --profile web add github:ZXEB/dsh-purge
 -
 切勿把技术用于非法用途
 
--
